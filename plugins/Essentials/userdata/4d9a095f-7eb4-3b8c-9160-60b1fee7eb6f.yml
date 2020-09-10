@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: DanyaPon3
+timestamps:
+  login: 1599751717771
+  logout: 1599743161560
+  lastteleport: 1599751964363
+ipAddress: 5.35.29.35
+logoutlocation:
+  world: world
+  x: 368.77330687676334
+  y: 77.25964456515793
+  z: 187.0327711444864
+  yaw: 24.597681
+  pitch: 27.300034
+lastlocation:
+  world: world
+  x: 322.06562288089697
+  y: 69.0
+  z: 190.87894790519
+  yaw: -14.249939
+  pitch: 6.000033
+afk: false
+homes:
+  home:
+    world: world
+    x: 300.4214990236375
+    y: 87.5625
+    z: 252.9245928318868
+    yaw: -103.500046
+    pitch: 44.550026

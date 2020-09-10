@@ -1,0 +1,18 @@
+name: vip
+permissions:
+- essentials.feed
+- essentials.fly
+- essentials.god
+- essentials.hat
+- essentials.heal
+- essentials.kits.vip
+- essentials.sethome.multiple.vip
+- weight.5
+parents:
+- default
+prefixes:
+- '&6[&eВ&6]&e ':
+    priority: 5
+meta:
+- default:
+    value: 'false'

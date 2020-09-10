@@ -1,0 +1,18 @@
+name: prem
+permissions:
+- essentials.gamemode
+- essentials.kits.premium
+- essentials.sethome.multiple.premium
+- weight.5
+parents:
+- default
+- vip
+prefixes:
+- '&2[&aП&2]&a ':
+    priority: 5
+suffixes:
+- '&F':
+    priority: 5
+meta:
+- default:
+    value: 'false'

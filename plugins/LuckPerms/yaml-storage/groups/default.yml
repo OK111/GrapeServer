@@ -1,0 +1,49 @@
+name: default
+permissions:
+- modifyworld.*
+- worldguard.region.addmember.own.*
+- worldguard.region.addowner.own.*
+- worldguard.region.info.own.*
+- worldguard.region.remove.own.*
+- worldguard.region.removemember.own.*
+- worldguard.region.removeowner.own.*
+- authme.player.changepassword
+- authme.player.login
+- authme.player.register
+- automessage.receive.default
+- essentials.balance
+- essentials.build
+- essentials.delhome
+- essentials.help.worldedit
+- essentials.home
+- essentials.kit
+- essentials.kits.start
+- essentials.list
+- essentials.motd
+- essentials.msg
+- essentials.pay
+- essentials.recipe
+- essentials.rules
+- essentials.sethome
+- essentials.spawn
+- essentials.tpa
+- essentials.tpaccept
+- essentials.tpdeny
+- essentials.warp
+- weight.5
+- worldedit.selection.expand
+- worldedit.selection.hpos
+- worldedit.selection.pos
+- worldedit.wand
+- worldguard.region.claim
+- worldguard.region.flag.own.chest-access
+- worldguard.region.flag.own.pvp
+- worldguard.region.flag.own.use
+- worldguard.region.list.own
+- worldguard.region.wand
+prefixes:
+- '&7':
+    priority: 5
+meta:
+- default:
+    value: 'true'

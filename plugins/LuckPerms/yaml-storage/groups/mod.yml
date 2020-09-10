@@ -1,0 +1,16 @@
+name: mod
+permissions:
+- essentials.*
+- worldedit.*
+- worldguard.*
+- weight.5
+parents:
+- default
+- prem
+- vip
+prefixes:
+- '&b[&3МОД&b]&3 ':
+    priority: 5
+meta:
+- default:
+    value: 'false'

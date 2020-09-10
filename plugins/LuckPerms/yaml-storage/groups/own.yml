@@ -1,0 +1,15 @@
+name: own
+permissions:
+- '*'
+- weight.5
+parents:
+- default
+prefixes:
+- '&4[&cОвн.&4] ':
+    priority: 5
+suffixes:
+- ' &c[!]':
+    priority: 5
+meta:
+- default:
+    value: 'false'
